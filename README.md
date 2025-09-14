@@ -1,18 +1,27 @@
-### 发布 Release（v0.1)
+## 游戏简介 (Brief)
 
-程序文件见[Release](https://github.com/maomaonwn/PenguinGoSeaing/releases/tag/Release)         👈👈👈**Here**
+小品式游戏，以短小精悍的形式讲述一个故事，游玩时长约5分钟，使用Unity开发。  
+*A short-form game that tells a story in a concise and impactful way, with a playtime of approximately 5 minutes, developed using Unity.*
 
-### 制作名单 Staff
+## 游戏特点 (Features)
 
-制作人、编程：`@maomaonwn`&#x20;
+- 沉静的故事  - *A tranquil story*
+- 简短的游玩时长  - *Short playtime*
+- 简洁的玩法  - *Simple gameplay*
 
-美术：`@一只浓硫酸`、`UnityStore`
+## 操作 (Controls)
 
-特别鸣谢我的朋友`@一只浓硫酸` 为游戏开头和结尾绘制的精美美术
+- **WASD** 移动  - *WASD Move*
 
-### 标签 Tag
-- 小品式游戏 
-- 60％的预期 
-- 其实可能是企鹅走路模拟器 
-- 没啥游戏性
-- 感谢游玩、感谢协助、感谢某天的好心情
+## 发布 (Release v0.1)
+
+程序文件见 [Release](https://github.com/maomaonwn/PenguinGoSeaing/releases/tag/Release) 👈👈👈 **Here**
+
+## 开发者 (Credits)
+
+- **制作人、编程**：`@maomaonwn` - Game Design & Programming
+- **美术**：`@一只浓硫酸`、`UnityStore` - Art
+
+### 特别鸣谢
+
+特别鸣谢我的朋友 `@一只浓硫酸` 为游戏的开头和结尾绘制了精美的美术作品。
